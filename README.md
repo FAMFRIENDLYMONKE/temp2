@@ -22,3 +22,5 @@ Happy Hacking!
 2. clone the repo to your local machine
 3. add your code with your github profile name as the filename in the specified folder
 4. Create a pull request
+
+![](img/footer-hacober.png)
