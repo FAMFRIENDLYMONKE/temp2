@@ -11,3 +11,14 @@ Whether you're a seasoned developer or just starting your coding journey, this i
 Happy Hacking!
 </p>
 
+## Before You Begin
+
+1. Register yourself @ [Hacktober](https://hacktoberfest.com/register/)
+2. Sign in With Your Github Account. (If you dont have a github Account make one)
+3. You can View your Profile and Stats @ [Profile](https://hacktoberfest.com/profile/)
+
+## Code Guidelines
+1. fork the repo to your own github Account
+2. clone the repo to your local machine
+3. add your code with your github profile name as the filename in the specified folder
+4. Create a pull request
